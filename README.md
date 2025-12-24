@@ -81,6 +81,6 @@ The **Easy Image Agent** follows a sophisticated multi-step pipeline:
 
 ## 🧠 Educational Context
 
-This project is inspired by the **Hugging Face AI Agents** course, specifically:
+This project is inspired by https://learn.deeplearning.ai/courses/prompt-engineering-for-vision-models/lesson/q0uu0/introduction
 - **Lesson 3**: Advanced object detection and segmentation pipelines.
 - **Lesson 4**: Mastering Stable Diffusion hyperparameters for high-quality inpainting.
