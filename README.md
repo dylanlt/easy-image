@@ -74,8 +74,6 @@ The **Easy Image Agent** follows a sophisticated multi-step pipeline:
 
 - `easy-image-agent.py`: The main agentic script.
 - `requirements.txt`: Project dependencies.
-- `L3_Object_Detection.ipynb`: Reference notebook for detection logic.
-- `L4_Image_Generation.ipynb`: Reference notebook for generation hyperparameters.
 - `mask.png`: The generated mask (created during runtime).
 - `generated.png`: The final result.
 
