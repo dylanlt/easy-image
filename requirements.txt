@@ -1,0 +1,8 @@
+smolagents
+torch
+transformers
+Pillow
+diffusers
+timm
+accelerate
+scipy
